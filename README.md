@@ -1,5 +1,7 @@
 # HeartDiseasesPrediction
  cardiovascular disease predict app
+ using :
+ recyclerview ,firebase ,firestore ,fcm token ,bitmap ,lottie animation ,tensorflow lite library ,intuit library ssp,sdp ,some view binding
  
 ![1](https://github.com/ahmedselim22/HeartDiseasesPrediction/assets/71884723/df71640c-3be6-439f-8475-86d14a73eb28)
 ![2](https://github.com/ahmedselim22/HeartDiseasesPrediction/assets/71884723/5ca866d7-c887-4865-8772-c31a31d9f2e4)
