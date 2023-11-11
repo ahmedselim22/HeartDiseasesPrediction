@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363310729059",
+    "project_id": "heartdiseasesprediction",
+    "storage_bucket": "heartdiseasesprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363310729059:android:586c192324491c3e78f556",
+        "android_client_info": {
+          "package_name": "com.selim.heartdiseasesprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOR35oziEV2iezZAxWVC23QCVMgfDq9AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
